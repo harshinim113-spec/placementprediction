@@ -1,0 +1,10 @@
+python
+machine-learning
+ai
+placement-prediction
+customtkinter
+student-management
+sqlite
+dashboard
+scikit-learn
+gui-application
